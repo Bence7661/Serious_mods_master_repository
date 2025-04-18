@@ -1,0 +1,35 @@
+name: Notify Discord on Submodule Update
+
+on:
+  push:
+    paths:
+      - '.gitmodules'
+      - 'mods/**'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+
+      - name: Get last commit message
+        id: get_commit_message
+        run: |
+          LAST_COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+          echo "Last commit message: $LAST_COMMIT_MESSAGE"
+          echo "LAST_COMMIT_MESSAGE=$LAST_COMMIT_MESSAGE" >> $GITHUB_ENV
+
+      - name: Send webhook to Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          LAST_COMMIT_MESSAGE: ${{ env.LAST_COMMIT_MESSAGE }}
+        run: |
+          MESSAGE="🔧︱<@&1362906307279192276>︱$LAST_COMMIT_MESSAGE"
+          
+          curl -H "Content-Type: application/json" \
+            -X POST \
+            -d "{\"content\": \"$MESSAGE\"}" \
+            $DISCORD_WEBHOOK
