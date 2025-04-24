@@ -1,9 +1,6 @@
 [submodule "mods/Serious_Workshop_Optimization"]
 	path = mods/Serious_Workshop_Optimization
 	url = https://github.com/Bence7661/Serious_Workshop_Optimization.git
-[submodule "mods/Serious_The_Northern_Job"]
-	path = mods/Serious_The_Northern_Job
-	url = https://github.com/Bence7661/Serious_The_Northern_Job
 [submodule "mods/Serious_The_Job_Can_Wait"]
 	path = mods/Serious_The_Job_Can_Wait
 	url = https://github.com/Bence7661/Serious_The_Job_Can_Wait.git
