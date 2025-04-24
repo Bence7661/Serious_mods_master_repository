@@ -34,3 +34,6 @@
 [submodule "mods/Serious_Weapon_Maintain_Features"]
 	path = mods/Serious_Weapon_Maintain_Features
 	url = https://github.com/Bence7661/Serious_Weapon_Maintain_Features.git
+[submodule "mods/Serious_The_Northern_Job"]
+	path = mods/Serious_The_Northern_Job
+	url = https://github.com/Bence7661/Serious_The_Northern_Job
