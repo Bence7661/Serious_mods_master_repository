@@ -34,3 +34,6 @@
 [submodule "mods/Serious_The_Northern_Job"]
 	path = mods/Serious_The_Northern_Job
 	url = https://github.com/Bence7661/Serious_The_Northern_Job
+[submodule "mods/Serious_Streamlined_Anomaly_Maintenance"]
+	path = mods/Serious_Streamlined_Anomaly_Maintenance
+	url = https://github.com/Bence7661/Serious_Streamlined_Anomaly_Maintenance
