@@ -19,9 +19,6 @@
 [submodule "mods/Serious_Debugger"]
 	path = mods/Serious_Debugger
 	url = https://github.com/Bence7661/Serious_Debugger.git
-[submodule "mods/Serious_Streamlined_Anomaly_Maintenance"]
-	path = mods/Serious_Streamlined_Anomaly_Maintenance
-	url = https://github.com/Bence7661/Serious_Streamlined_Anomaly_Maintenance.git
 [submodule "mods/AnomalyUIScalingCalculator"]
 	path = mods/AnomalyUIScalingCalculator
 	url = https://github.com/Bence7661/AnomalyUIScalingCalculator.git
