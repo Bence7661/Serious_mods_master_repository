@@ -10,9 +10,6 @@
 [submodule "mods/Serious_Tasks_QoL_Pack"]
 	path = mods/Serious_Tasks_QoL_Pack
 	url = https://github.com/Bence7661/Serious_Tasks_QoL_Pack.git
-[submodule "mods/Serious_Collection_Tracker"]
-	path = mods/Serious_Collection_Tracker
-	url = https://github.com/Bence7661/Serious_Collection_Tracker.git
 [submodule "mods/Serious_Intro_Ui_Screen"]
 	path = mods/Serious_Intro_Ui_Screen
 	url = https://github.com/Bence7661/Serious_Intro_Ui_Screen.git
