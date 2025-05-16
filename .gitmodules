@@ -34,3 +34,6 @@
 [submodule "mods/Serious_Collection_Tracker"]
 	path = mods/Serious_Collection_Tracker
 	url = https://github.com/Bence7661/Serious_Collection_Tracker
+[submodule "mods/Serious_Armor_Exchange_Info"]
+	path = mods/Serious_Armor_Exchange_Info
+	url = https://github.com/Bence7661/Serious_Armor_Exchange_Info
