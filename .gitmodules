@@ -4,9 +4,6 @@
 [submodule "mods/Serious_The_Job_Can_Wait"]
 	path = mods/Serious_The_Job_Can_Wait
 	url = https://github.com/Bence7661/Serious_The_Job_Can_Wait.git
-[submodule "mods/Serious_Armor_Exchange_Info"]
-	path = mods/Serious_Armor_Exchange_Info
-	url = https://github.com/Bence7661/Serious_Armor_Exchange_Info.git
 [submodule "mods/Serious_Tasks_QoL_Pack"]
 	path = mods/Serious_Tasks_QoL_Pack
 	url = https://github.com/Bence7661/Serious_Tasks_QoL_Pack.git
