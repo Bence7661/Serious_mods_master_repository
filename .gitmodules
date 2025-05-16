@@ -34,6 +34,3 @@
 [submodule "mods/Serious_Streamlined_Anomaly_Maintenance"]
 	path = mods/Serious_Streamlined_Anomaly_Maintenance
 	url = https://github.com/Bence7661/Serious_Streamlined_Anomaly_Maintenance
-[submodule "mods/Serious_Collection_Tracker"]
-	path = mods/Serious_Collection_Tracker
-	url = https://github.com/Bence7661/Serious_Collection_Tracker
