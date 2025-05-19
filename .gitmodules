@@ -37,6 +37,3 @@
 [submodule "mods/Serious_Armor_Exchange_Info"]
 	path = mods/Serious_Armor_Exchange_Info
 	url = https://github.com/Bence7661/Serious_Armor_Exchange_Info
-[submodule "mods/Serious_Swiper_No_Swiping"]
-	path = mods/Serious_Swiper_No_Swiping
-	url = https://github.com/Bence7661/Serious_Swiper_No_Swiping
