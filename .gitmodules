@@ -40,3 +40,6 @@
 [submodule "mods/Serious_Swiper_No_Swiping"]
 	path = mods/Serious_Swiper_No_Swiping
 	url = https://github.com/Bence7661/Serious_Swiper_No_Swiping
+[submodule "mods/Serious_Exo_QoL_Patches"]
+	path = mods/Serious_Exo_QoL_Patches
+	url = https://github.com/Bence7661/Serious_Exo_QoL_Patches
