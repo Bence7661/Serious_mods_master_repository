@@ -43,3 +43,6 @@
 [submodule "mods/Serious_Exo_QoL_Patches"]
 	path = mods/Serious_Exo_QoL_Patches
 	url = https://github.com/Bence7661/Serious_Exo_QoL_Patches
+[submodule "mods/Serious_Regulated_Dynamic_Anomalies"]
+	path = mods/Serious_Regulated_Dynamic_Anomalies
+	url = https://github.com/Bence7661/Serious_Regulated_Dynamic_Anomalies
