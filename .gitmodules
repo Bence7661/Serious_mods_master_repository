@@ -43,9 +43,6 @@
 [submodule "mods/Serious_Exo_QoL_Patches"]
 	path = mods/Serious_Exo_QoL_Patches
 	url = https://github.com/Bence7661/Serious_Exo_QoL_Patches
-[submodule "mods/Serious_Regulated_Dynamic_Anomalies"]
-	path = mods/Serious_Regulated_Dynamic_Anomalies
-	url = https://github.com/Bence7661/Serious_Regulated_Dynamic_Anomalies
 [submodule "mods/Tougher-Gun-Repair-GAMMA"]
 	path = mods/Tougher-Gun-Repair-GAMMA
 	url = https://github.com/veerserif/Tougher-Gun-Repair-GAMMA
